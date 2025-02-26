@@ -15,9 +15,10 @@ Key findings include:
 - Model evaluation using R-square and MSE (Mean squared error)
 
 ## Repository Structure
-├── BikeBookingCaseStudy.ipynb       # Jupyter Notebook
+├── New folder/BikeBookingCaseStudy.ipynb       # Jupyter Notebook
+├── New folder/Regression+Subjective+Questions.pdf
 ├── README.md              # Project description
-├── data/
+├── New folder/data/
     ├── day.csv       # Raw dataset
     ├──
 
@@ -26,3 +27,6 @@ Key findings include:
 1. Clone the repository.
 2. Install NumPy, Pandas, Seaborn, sklearn, statsmodals and Matplotlib
 3. Open lending_case_study.ipynb in Jupyter Notebook.
+
+Assumptions:
+Please go to "New folder" on github link to fetch case study files
