@@ -5,8 +5,6 @@ The aim of this case study is to build a multiple linear regression model for th
 ## Dataset
 - **Source:** day.csv (Upgrade case study)
 - **Size:** [730, 16]
-- **Variables:**
-  - Meanings are given in jupyter notebook
 
 ## Results
 Key findings include:
